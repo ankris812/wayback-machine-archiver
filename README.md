@@ -1,11 +1,10 @@
-# Wayback Machine Archiver
+# Proyect backup
 
-Wayback Machine Archiver (Archiver for short) is a commandline utility writen
-in Python to backup Github Pages using the [Internet Archive][ia].
-
+Proyect backup is a WIP script for the google colab platform  for saving an always growing list of sites into the  [Internet Archive][ia] using the wayback-machine-archiver: 
+https://github.com/agude/wayback-machine-archiver
 [ia]: https://archive.org/
 
-## Installation
+## Installation of wayback machine archiver
 
 The best way to install Archiver is with `pip`:
 
@@ -144,3 +143,5 @@ Setup instructions can be found on the above site; they require changing just
 a single line of your site's `_config.yml`.
 
 [jsm]: https://github.com/jekyll/jekyll-sitemap
+
+Import the proyect-backup.ipynb into google colab for help with this. Any suggestions are welcome.
