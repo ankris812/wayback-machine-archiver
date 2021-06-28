@@ -1,8 +1,8 @@
 # Proyect backup
 
-Proyect backup is a WIP script for the google colab platform  for saving an always growing list of sites into the  [Internet Archive][ia] using the wayback-machine-archiver: 
+Proyect backup is a WIP script for the google colab platform  for saving an always growing list of sites into the [Wayback Machine](web.archive.org) using the wayback-machine-archiver: 
 https://github.com/agude/wayback-machine-archiver
-[ia]: https://archive.org/
+
 
 ## Installation of wayback machine archiver
 
